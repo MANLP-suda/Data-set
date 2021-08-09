@@ -11,3 +11,6 @@ The dataset contains three sub-set,i.e. train_set,test_set,valid_set, and the de
 
 # MOSEI 
 The data can be download in [link](https://github.com/A2Zadeh/CMU-MultimodalSDK) and follow the "usage" in "readme.md".
+
+# MELD
+The detailed information is in [link](https://github.com/declare-lab/MELD)
